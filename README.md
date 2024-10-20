@@ -1,5 +1,5 @@
 <h1>I'm Yuri</h1>
-My name is Yuri Kuvalja, </br>
+My name is Yuri, </br>
 This is my own personal account. </br> </br>
 My main programming languages are: </br> 
 <ol>
