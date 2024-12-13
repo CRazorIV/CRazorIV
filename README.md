@@ -1,13 +1,4 @@
-<h1>I'm Yuri</h1>
-My name is Yuri, </br>
-This is my own personal account. </br> </br>
-My main programming languages are: </br> 
-<ol>
-  <li>Python</li>  
-  <li>Javascript</li>  
-  <li>PHP</li>
-  <li>MySQL</li>
-</ol> 
+[![](https://visitcount.itsvg.in/api?id=CRazorIV&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!---
 CRazorIV/CRazorIV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
