@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on: My portfolio<br>🌱 I’m currently learning: Typescript, Python, MySQL, PHP<br>⚡ Fun fact: I HATE p5.js.....
+🔭 I’m currently working on: My portfolio<br>🌱 I’m currently learning: Typescript, Python, MySQL, PHP<br>
 
 
 ## 🌐 Socials:
