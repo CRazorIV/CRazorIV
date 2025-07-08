@@ -1,5 +1,5 @@
 # About Me:
-🔭 Currently Working On<br>I'm expanding my portfolio alongside building personal and school-related projects.<br><br>👯 Open to Collaboration<br>I’m looking to collaborate on backend systems, primarily using Python and PHP.<br><br>🤝 Seeking Help With<br>I want to deepen my Python expertise and would appreciate guidance on complex topics.<br><br>🌱 Currently Learning<br>I'm currently exploring Django framework, mongoDB, PHP, and React to expand my full-stack development skills.<br><br>💬 Ask Me About<br>Need help with an IT-related issue? Feel free to reach out!<br><br>⚡ Fun Fact<br>Python was the first programming language I ever used—and it’s still my favorite to this day.
+🔭 Currently Working On<br>I'm expanding my portfolio alongside building personal and school-related projects.<br><br>👯 Open to Collaboration<br>I’m looking to collaborate on backend systems, primarily using Python and C# <br><br>🤝 Seeking Help With<br>I want to gain a decent understanding of .NET and C# and would appreciate guidance on complex topics.<br><br>🌱 Currently Learning<br> With renewed focus, I'm currently exploring .NET framework, C#, Avalonia UI and WPF <br><br>⚡ Fun Fact<br>Python was the first programming language I ever used—and it’s still my favorite to this day.
 
 
 ## 🌐 Socials:
