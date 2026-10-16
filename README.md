@@ -5,7 +5,7 @@ My interests are playing unforgiving games (mainly DayZ) and experimenting with 
 I like to gain a little bit of knowledge about everything whilst still maintaining a solid basis. 
 I try to read books about programming topics now and then but I end up just losing myself because I learn more with experimenting and jotting down my findings in obsidian anyways. 
 Yes I use AI (like everyone else that is larping saying they do everything by hand) It speeds up most of my life making me 1000X more productive instead of me having to write repedative elements again and again.  
-If you have any questions about collaboration feel free to shoot me a mail or a message on discord. 
+If you have any questions about collaboration feel free to shoot me a mail or a message on discord (I don't like looking at the flashy headache enducing github bios I normally see so I hope that helps :p). 
 
 // Tech Stack
 Python, C# Entity Framework, ASP .NET WebApi's, JavaScript/TypeScript, HTML, CSS/SASS, Bash and yeah sure throw in basically every hot new JS framework on the block in here.  
