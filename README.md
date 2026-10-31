@@ -12,7 +12,7 @@ Yes I use AI (like everyone else that is larping saying they do everything by ha
 If you have any questions about collaboration feel free to shoot me a mail or a message on discord (I don't like looking at the flashy headache enducing github bios I normally see so I hope that helps :p). 
 <br />
 ### // Tech Stack
-Python, C# Entity Framework, ASP.NET WebApi's, JavaScript/TypeScript, HTML, CSS/SASS, Bash and yeah sure throw in basically every hot new JS framework on the block in here.  
+Python, C# Entity Framework, ASP.NET WebApi's, JavaScript/TypeScript, HTML, CSS/SASS, PL /SQL, Git, Docker, Azure DevOps tooling and yeah sure throw in basically every hot new JS framework on the block in here.  
 
 ### // Skills
 Comunnication, Puctuality, Problem Solving, Analythical thinking
