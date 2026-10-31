@@ -1,7 +1,7 @@
 # // Little bit about myself
 
 My name is Yuri, I'm a 19 year old fullstack webdeveloper based out of the Netherlands with +3 years experience. 
-My interests are playing unforgiving games (mainly DayZ) and experimenting with new things I have yet to discover. <br />
+My interests are playing unforgiving games (mainly DayZ) and experimenting with new things I have yet to discover. (As of November 2026 I am currently learning Networking basics and Cisco packet tracer) <br />
 <br />
 I like to gain a little bit of knowledge about everything whilst still maintaining a solid basis. <br />
 <br />
