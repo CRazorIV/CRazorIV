@@ -11,9 +11,8 @@ My name is Yuri, I'm a 19 year old fullstack webdeveloper based out of the Nethe
 My interests are: API development, playing unforgiving games (mainly DayZ, yes the walking simulator), maintaining my dumpster fire of a PC and experimenting / learning other topics regarding computer science or IT. (As of November 2026 I am currently learning Networking basics and Cisco packet tracer) <br />
 <br />
 I try to read books about programming topics now and then but I end up just losing myself because I learn more by experimenting with the topic and jotting down my findings in obsidian anyways. The plus being I actually GAIN some presentable knowledge I can look back upon with pride seeing my mistakes and process rather then forget a few lines of text and having to read it again :p (not saying reading and finding the meaning about something is useless. Im just a grunt when it comes to the actual books XD.) <br />
-<br />
 
-### // Tech Stack
+## // Tech Stack
 Python, C# Entity Framework, ASP.NET WebApi's, PHP, JavaScript/TypeScript, HTML, CSS/SASS, PL /SQL, JSON, YAML, Git, Docker, Azure DevOps tooling, Chrome devtools, Claude, Markdown (okay that's crazy everyone knows markdown but yeah, I do to guys!! :D) and yeah sure throw in basically every hot new JS framework on the block in here.  
 ### // Professional Skills
 Comunnication, Puctuality, AGILE Principles, Problem Solving, Debugging, Analythical thinking, Negotiation.
