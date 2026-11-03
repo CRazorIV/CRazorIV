@@ -12,7 +12,6 @@ My interests are: API development, playing unforgiving games (mainly DayZ, yes t
 <br />
 I try to read books about programming topics now and then but I end up just losing myself because I learn more by experimenting with the topic and jotting down my findings in obsidian anyways. The plus being I actually GAIN some presentable knowledge I can look back upon with pride seeing my mistakes and process rather then forget a few lines of text and having to read it again :p (not saying reading and finding the meaning about something is useless. Im just a grunt when it comes to the actual books XD.) <br />
 <br />
-Yes I use Claude Code to assist me with certain tasks (like everyone else that is larping saying they do everything by hand). It speeds up most of my life making me 1000X more productive instead of me having to write repedative elements again and again. Don't worry he's not taken over my work completely otherwhise this bio would have been built with a Javascript framework and a readme containing the list of dependencies added. <br />
 
 ### // Tech Stack
 Python, C# Entity Framework, ASP.NET WebApi's, PHP, JavaScript/TypeScript, HTML, CSS/SASS, PL /SQL, JSON, YAML, Git, Docker, Azure DevOps tooling, Chrome devtools, Claude, Markdown (okay that's crazy everyone knows markdown but yeah, I do to guys!! :D) and yeah sure throw in basically every hot new JS framework on the block in here.  
